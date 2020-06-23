@@ -1,3 +1,3 @@
-/* Содержит прототип функции fakedata */
+/* РЎРѕРґРµСЂР¶РёС‚ РїСЂРѕС‚РѕС‚РёРї С„СѓРЅРєС†РёРё fakedata */
 #pragma once
 int fakedata(int day, int month);
